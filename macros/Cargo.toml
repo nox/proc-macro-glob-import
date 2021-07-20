@@ -1,0 +1,11 @@
+[package]
+name = "macros"
+version = "0.1.0"
+authors = ["Anthony Ramine <nox@nox.paris>"]
+edition = "2018"
+publish = false
+
+[lib]
+proc-macro = true
+
+[dependencies]
